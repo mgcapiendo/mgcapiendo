@@ -5,7 +5,7 @@
 
 👯 I’m looking to collaborate on more hackathons
 
-👨‍💻 Visit my portfolio! [www.mgcapiendo.com]
+👨‍💻 Visit my portfolio! www.mgcapiendo.com
 
 📫 How to reach me manuelgcapiendo@gmail.com
 
