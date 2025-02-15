@@ -5,7 +5,7 @@
 
 👯 I’m looking to collaborate on more hackathons
 
-👨‍💻 Visit my portfolio! [https://portfolio-mgcapiendos-projects.vercel.app/](https://portfolio-mgcapiendos-projects.vercel.app/)
+👨‍💻 Visit my portfolio! [https://portfolio-mgcapiendos-projects.vercel.app/](www.mgcapiendo.com)
 
 📫 How to reach me manuelgcapiendo@gmail.com
 
