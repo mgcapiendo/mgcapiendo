@@ -1,7 +1,9 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=500&size=30&duration=6000&pause=1000&color=F7F7F7&width=435&lines=About+Me%3A)](https://git.io/typing-svg)
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hey+There!+👋;I'm+Manuel+Capiendo" />
+</h1>
 
 > [!IMPORTANT]
-> Hey, I'm **Manuel**!
+> Welcome to my page!
 >
 > I’m a Computer Science student minoring in Artificial Intelligence at FAU, with a focus on full-stack development and AI applications. I build projects, compete in hackathons, and volunteer to teach coding to K-12 students. I enjoy combining different technologies to solve real-world problems or bring my ideas to life.
 > 
