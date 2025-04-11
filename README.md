@@ -1,20 +1,57 @@
-<h1 align="center">Hi 👋, I'm Manuel</h1>
-<h3 align="center">A go-getter computer science student at FAU</h3>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=500&size=30&duration=6000&pause=1000&color=F7F7F7&width=435&lines=About+Me%3A)](https://git.io/typing-svg)
 
-🔭 I’m currently working on building my portfolio
+> [!IMPORTANT]
+> Hey, I'm **Manuel**!
+>
+> I’m a Computer Science student minoring in Artificial Intelligence at FAU, with a focus on full-stack development and AI applications. I build projects, compete in hackathons, and volunteer to teach coding to K-12 students. I enjoy combining different technologies to solve real-world problems or bring my ideas to life.
+> 
+> If you enjoy coding, learning, or jurassic park, feel free to reach out and connect! 🦖
 
-👯 I’m looking to collaborate on more hackathons
+---
 
-👨‍💻 Visit my portfolio! www.mgcapiendo.com
 
-📫 How to reach me manuelgcapiendo@gmail.com
+## What I'm Using 👨‍💻
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/manuel-capiendo-4604251b3/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/manuel-capiendo-4604251b3/" height="30" width="40" /></a>
-<a href="https://www.instagram.com/manuelcapiendo/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/manuelcapiendo/" height="30" width="40" /></a>
-</p>
+I'm using HTML, CSS, and JavaScript to make my websites! 
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="react native" width="40" height="40"/> </a> </p>
+**I love working with**
 
+<div display="flex">
+  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React"/>
+  <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next JS"/>
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"/>
+  <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white" alt="Node JS"/>
+  <img src="https://img.shields.io/badge/-MongoDB-13aa52?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+</div>
+
+### 🔭 I’m working on
+
+- The Odin Project
+- Coffee Chats and Networking With Industry Professionals
+
+### 🌱 I’m learning
+
+<div display="flex">
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular"/>
+  <img src="https://img.shields.io/badge/docker-257bd6?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white" alt="Jenkins"/>
+</div>
+
+### 🤔 I’m looking for help with
+
+- Frontend Development
+- Backend Development
+- Web Development Best Practices
+
+### 📫 How to reach me
+
+<div display="flex">
+  <a href="https://www.linkedin.com/in/capiendo/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</div>
+    
+#### Or My Website: www.mgcapiendo.com
+
+### 🐊 Fun fact
+
+I Really Like Alligators!
