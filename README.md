@@ -29,7 +29,7 @@ I'm using HTML, CSS, and JavaScript to make my websites!
 ### 🔭 I’m working on
 
 - The Odin Project
-- Thrill Seeker
+- Dexel
 - Coffee Chats and Networking With Industry Professionals
 
 ### 🌱 I’m learning
