@@ -53,5 +53,6 @@ I'm using React & Angular to make my websites!
 
 ## ⚓ Fun fact
 
-Prior to Compute Science I was a Midshipman and wanted to become an Aviator!
+Prior to Computer Science I was a Midshipman and wanted to become an Aviator!
+
 
