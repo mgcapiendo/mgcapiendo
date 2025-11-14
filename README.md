@@ -5,34 +5,30 @@
 > [!IMPORTANT]
 > Welcome to my page!
 >
-> I’m a Computer Science student minoring in Artificial Intelligence at FAU, with a focus on full-stack development and AI applications. I build projects, compete in hackathons, and volunteer to teach coding to K-12 students. I enjoy combining different technologies to solve real-world problems or bring my ideas to life.
+> I’m a Computer Science student minoring in Artificial Intelligence at FAU, with a focus on full-stack development and AI applications. I build projects, compete in hackathons, and volunteer to teach coding to K-12 students. I enjoy combining different technologies to solve real-world problems and bring my ideas to life.
 > 
-> If you enjoy coding, learning, or jurassic park, feel free to reach out and connect! 🦖
+> Feel free to reach out and connect! 🦕
 
 ---
 
 
 ## What I'm Using 👨‍💻
 
-I'm using HTML, CSS, and JavaScript to make my websites! 
+I'm using React & Angular to make my websites! 
 
 **I love working with**
 
 <div display="flex">
   <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React"/>
-  <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next JS"/>
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"/>
-  <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white" alt="Node JS"/>
-  <img src="https://img.shields.io/badge/-MongoDB-13aa52?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular"/>
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"/>
 </div>
 
-### 🔭 I’m working on
+## 🔭 I’m working on
 
-- The Odin Project
-- Dexel
-- Coffee Chats and Networking With Industry Professionals
+- Internal IT Applications @ NextEra Energy
 
-### 🌱 I’m learning
+## 🌱 I’m learning
 
 <div display="flex">
   <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular"/>
@@ -40,13 +36,13 @@ I'm using HTML, CSS, and JavaScript to make my websites!
   <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white" alt="Jenkins"/>
 </div>
 
-### 🤔 I’m looking for help with
+## 🤔 I’m looking for help with
 
-- Frontend Development
-- Backend Development
-- Web Development Best Practices
+- Full-Stack Development
+- Microservice Architecture
+- UX/UI Quality
 
-### 📫 How to reach me
+## 📫 How to reach me
 
 <div display="flex">
   <a href="https://www.linkedin.com/in/capiendo/">
@@ -55,6 +51,7 @@ I'm using HTML, CSS, and JavaScript to make my websites!
     
 #### Or My Website: www.mgcapiendo.com
 
-### 🐊 Fun fact
+## ⚓ Fun fact
 
-I Really Like Alligators!
+Prior to Compute Science I was a Midshipman and wanted to become an Aviator!
+
