@@ -5,9 +5,7 @@
 > [!IMPORTANT]
 > Welcome to my page!
 >
-> I’m a Computer Science student minoring in Artificial Intelligence at FAU, with a focus on full-stack development and AI applications. I build projects, compete in hackathons, and have volunteered to teach coding to K-12 students. I enjoy combining different technologies to solve real-world problems and bring my ideas to life.
-> 
-> Feel free to reach out and connect! 🦕
+> I'm a student at Florida Atlantic University studying Computer Science and Artificial Intelligence. I like to work on designing and developing Full-Stack applications and how AI can be integrated for new features. 🎷🦕
 
 ---
 
