@@ -5,7 +5,7 @@
 > [!IMPORTANT]
 > Welcome to my page!
 >
-> I'm a student at Florida Atlantic University studying Computer Science and Artificial Intelligence. I like to work on designing and developing Full-Stack applications and how AI can be integrated for new features. 🎷🦕
+> I'm a student at Florida Atlantic University studying Computer Science and Artificial Intelligence. I like to work on designing and developing Full-Stack applications. 🎷🦕
 
 ---
 
